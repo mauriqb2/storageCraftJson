@@ -1,10 +1,10 @@
 {
     "shadow_xafe":{
-        "version":"v2 R4", 
+        "version":"v2 r4 demo", 
         "files":{}
     },
     "dtx":{
-        "version":"2.2.144", 
+        "version":"2.10", 
         "files":{
             "win":   "dtx-2.2.144-1_windows-i686_2018-04-09.zip",
             "win64":   "dtx-2.2.144-1_windows-x86_64_2018-04-09.zip",
