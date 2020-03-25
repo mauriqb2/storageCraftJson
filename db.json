@@ -1,0 +1,109 @@
+{
+    "shadow_xafe":{
+        "version":"v2 R4", 
+        "files":{}
+    },
+    "dtx":{
+        "version":"2.2.144", 
+        "files":{
+            "win":   "dtx-2.2.144-1_windows-i686_2018-04-09.zip",
+            "win64":   "dtx-2.2.144-1_windows-x86_64_2018-04-09.zip",
+            "centos6": "dtx-2.2.144-0_centos-6-x86_64_2018-03-16.tar.gz",
+            "centos7": "dtx-2.2.144-0_centos-7-x86_64_2018-03-16.tar.gz",
+	    "ubuntu": "dtx-2.2.144-0_ubuntu-x86_64_2018-03-16.tar.gz"
+        }
+    },
+    "spx":{
+        "version":"6.8.4", 
+        "files":{
+            "win32":   "ShadowProtect_SPX-6.8.4-5_x86.msi",
+            "win64":   "ShadowProtect_SPX-6.8.4-5_x64.msi",
+            "win32gp": "ShadowProtect_SPX-6.8.4-5_x86.GP.msi",
+            "win64gp": "ShadowProtect_SPX-6.8.4-5_x64.GP.msi"
+        }
+    },  
+    "spx_linux":{
+        "version":"6.8.6"
+    }, 
+    "socket_service":{
+        "version":     "1.1.4",
+        "files":{
+            "win":     "SocketLicensingService_1.1.4-4.msi"
+        }
+    },
+    "hyperv_plugin":{
+        "version":     "1.0.16",
+        "files":{
+            "win":     "SPXHyperVPlugin-1.0.16.msi"
+        }
+    },
+    "shadowprotect":{
+        "version":     "5.2.7",
+        "files":{
+            "win":     "ShadowProtectSetup_5.2.7.exe",
+            "winiss":  "ShadowProtect_ISS_5.2.7.zip"
+        }
+    },
+    "re_builder":{
+        "version":     "1.1.10",
+        "files":{}
+    },
+    "re_crossplatform":{
+        "version":     "2.2.4",
+        "files":{}
+    },
+    "gre":{
+        "version":     "8.1.5",
+        "files":{
+            "win":     "StorageCraft_ShadowProtect_Granular_Recovery_For_Exchange_8.1.5.exe"
+        }
+    },
+    "gre_legacy":{
+        "version":     "7.5",
+        "files":{
+            "win":     "StorageCraft_ShadowProtect_Granular_Recovery_For_Exchange_7.5.zip"
+        }
+    },
+    "imagemanager":{
+        "version":     "7.6.0",
+        "files":{
+            "win":     "ImageManager_Setup_7.6.0.exe"
+        }
+    },
+    "shadowstream_server":{
+        "version":     "6.1.4",
+        "files":{
+            "win":     "ShadowStream_Setup_6.1.4.exe"
+        }
+    },
+    "shadowcontrol_legacy_appliance":{
+        "version":     "3.8.0",
+        "files":{
+            "iso":      "/_cmd/ShadowControl_Appl_base.zip"
+        }
+    },
+    "shadowcontrol_legacy_endpoint":{
+        "version":     "3.8.0",
+        "files":{
+            "win":      "/_cmd/ShadowControl_Installer_3_8_en.msi"
+        }
+    },
+    "shadowcontrol_appliance":{
+        "version":     "4.x",
+        "files":{
+			"iso":		"/_shadowcontrol/shadowcontrol_cmd_4.0.iso"
+		}
+    },
+    "shadowcontrol_endpoint":{
+        "version":     "4.3.0",
+        "files":{
+			"win":		"/_shadowcontrol/ShadowControl_Installer_4.3_en.msi"
+		}
+    },
+    "vsphere_plugin":{
+        "version":     "1.0.3",
+        "files":{
+            "zip":     "VMW-ESX-6.0.0-stastcesxi-1.0.3-offline_bundle-4888166.zip"
+        }
+    }
+}
