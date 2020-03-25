@@ -4,7 +4,7 @@
         "files":{}
     },
     "dtx":{
-        "version":"2.10", 
+        "version":"2.10 demo", 
         "files":{
             "win":   "dtx-2.2.144-1_windows-i686_2018-04-09.zip",
             "win64":   "dtx-2.2.144-1_windows-x86_64_2018-04-09.zip",
@@ -14,7 +14,7 @@
         }
     },
     "spx":{
-        "version":"6.8.4", 
+        "version":"6.8.4 demo", 
         "files":{
             "win32":   "ShadowProtect_SPX-6.8.4-5_x86.msi",
             "win64":   "ShadowProtect_SPX-6.8.4-5_x64.msi",
