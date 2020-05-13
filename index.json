@@ -1,20 +1,20 @@
 {
     "shadow_xafe":{
-        "version":"v2 r4 re-demo", 
+        "version":"v3 R1", 
         "files":{}
     },
     "dtx":{
-        "version":"2.10 demo", 
+        "version":"2.2.152", 
         "files":{
-            "win":   "dtx-2.2.144-1_windows-i686_2018-04-09.zip",
-            "win64":   "dtx-2.2.144-1_windows-x86_64_2018-04-09.zip",
+            "win":   "dtx-2.2.152-1_windows-i686_2020-03-20.zip",
+            "win64":   "dtx-2.2.152-1_windows-x86_64_2020-02-11.zip",
             "centos6": "dtx-2.2.144-0_centos-6-x86_64_2018-03-16.tar.gz",
             "centos7": "dtx-2.2.144-0_centos-7-x86_64_2018-03-16.tar.gz",
 	    "ubuntu": "dtx-2.2.144-0_ubuntu-x86_64_2018-03-16.tar.gz"
         }
     },
     "spx":{
-        "version":"6.8.4 demo", 
+        "version":"6.8.4", 
         "files":{
             "win32":   "ShadowProtect_SPX-6.8.4-5_x86.msi",
             "win64":   "ShadowProtect_SPX-6.8.4-5_x64.msi",
